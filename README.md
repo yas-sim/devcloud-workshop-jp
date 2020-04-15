@@ -20,7 +20,7 @@ Intel DevCloudはインテルが提供するクラウドサービスです。ク
 5. Jupyterから、コマンドターミナルを開きます ('New' - 'Terminal')
 6. このプロジェクトをcloneします
 ~~~shell
-$ git clone https://github.com/yas-sim/devcloud-workshop-en
+$ git clone https://github.com/yas-sim/devcloud-workshop-jp
 ~~~
 7. Jupyterで`devcloud-workshop-en/START-HERE.ipynb`を開きます
 
